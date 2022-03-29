@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Система привлечения иностранных рабочих сил</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+    <link rel="stylesheet" href="css/defaultStyles.css"/>
+    <link rel="stylesheet" href="css/icons.css"/>
+    <link rel="stylesheet" href="css/fonts.css"/>
+    <link rel="stylesheet" href="css/font-awesome.css"/>
+    <link rel="stylesheet" href="css/enjoyhint.css"/>
+    <link rel="stylesheet" href="css/select2.min.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/media.css"/>
+    <script src="js/jquery.js"></script>
+    <script src="js/enjoyhint.min.js"></script>
+    <script src="js/kinetic-v5.1.0.min.js"></script>
+    <script src="js/select2.min.js"></script>
+    <script src="js/banks.js"></script>
+    <script src="js/countries.js"></script>
+    <script src="js/combodate.js"></script>
+    <script src="js/jquery.inputmask.bundle.min.js"></script>
+    <script src="js/moment.min.js"></script>
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+    <!-- start #mainWrap-->
+    <div id="mainWrap">
+      <!-- start #header-->
+      <div id="header">
+        <div class="topHeader">
+          <div class="mainContainer minContainer">
+            <div class="left"><i class="fa fa-calendar"></i>&nbsp;<span>Дата: <strong>25.04.2019 г.</strong></span></div>
+            <div class="right">
+              <div class="langs">
+                <ul>
+                  <li><a href="#">O’zbekcha</a></li>
+                  <li><a href="#">Узбекча</a></li>
+                  <li class="active"><a href="#">Русский</a></li>
+                </ul>
+              </div>
+              <div class="exitBtn"><a href="languages.html">Выйти из кабинета <i class="fa fa-sign-out" aria-hidden="true"></i></a></div>
+            </div>
+          </div>
+        </div>
+        <div class="header">
+          <div class="mainContainer minContainer">
+            <div class="logo"><a href="index.html"><img src="images/logo.svg" alt=""/></a></div>
+            <nav class="headerNav">
+              <ul>
+                <li><a href="index.html"><i class="fa fa-home"></i> Главная </a></li>
+                <li><a href="company-data.html"><i class="fa fa-cogs"></i> Данные компании</a></li>
+              </ul>
+            </nav>
+            <div class="headerRight">
+              <nav class="headerNav">
+                <ul>
+                  <li><a href="#"><i class="fa fa-info-circle"></i> Правовая информация</a></li>
+                  <li><a href="#"><i class="fa fa-info-circle"></i> Помощь по системе</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end #header-->
+      <!-- start #content-->
+      <div id="content">
+        <div class="mainContainer cartContainer">
+          <div class="fullPage">
+            <p><a href="index.html">Назад</a></p><br/>
+            <div class="contentBlock">
+              <div class="title-3 textCenter">Данные компании</div>
+              <form action="company-data.html">
+                <div class="formControl">
+                  <label>Полное наименование:</label>
+                  <div class="field">
+                    <input type="text" value="OOO System Technologies Group" class="formField"/>
+                  </div>
+                </div>
+                <div class="row10">
+                  <div class="colp10-3">
+                    <div class="formControl">
+                      <label>ИНН:</label>
+                      <div class="field">
+                        <input type="text" value="123456789" disabled="disabled" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-3">
+                    <div class="formControl">
+                      <label>ОКЭД:</label>
+                      <div class="field">
+                        <input type="text" value="123456" disabled="disabled" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-3">
+                    <div class="formControl">
+                      <label>СОАТО:</label>
+                      <div class="field">
+                        <input type="text" value="123456" disabled="disabled" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-3">
+                    <div class="formControl">
+                      <label>ФС:</label>
+                      <div class="field">
+                        <input type="text" value="123456" disabled="disabled" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-3">
+                    <div class="formControl">
+                      <label>ОПФ:</label>
+                      <div class="field">
+                        <input type="text" value="123456" disabled="disabled" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-3">
+                    <div class="formControl">
+                      <label>ОКПО:</label>
+                      <div class="field">
+                        <input type="text" value="123456" disabled="disabled" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Местонахождение (почтовый адрес):</label>
+                  <div class="field">
+                    <input type="text" value="Ташкент, Мирзо-Улугбекский район, улица Паркентская, дом 23а, квартира 153" class="formField"/>
+                  </div>
+                </div>
+                <div class="row10">
+                  <div class="colp10-6">
+                    <div id="additional-phones">
+                      <div class="formControl">
+                        <label>Телефонные номера организации:</label>
+                        <div v-for="(item, index) in models" class="margin-b10">
+                          <div v-if="index == 0" class="field fieldWithPrefix">
+                            <div class="fieldPrefix">+998</div>
+                            <input type="tel" value="" class="formField jq-phone-mask"/>
+                          </div>
+                          <div v-else="v-else" class="row5">
+                            <div class="colp5-9">
+                              <div class="field fieldWithPrefix">
+                                <div class="fieldPrefix">+998</div>
+                                <input type="tel" value="" class="formField jq-phone-mask"/>
+                              </div>
+                            </div>
+                            <div class="colp5-3">
+                              <button type="button" v-on:click.prevent="deleteBlock(index)" class="btn0 btnSmall btnRed btnBlock">Удалить</button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="textRight"><a href="#" v-on:click.prevent="add()" class="dashedLink">Добавить еще</a></div>
+                    </div>
+                  </div>
+                  <div class="colp10-6">
+                    <div class="formControl">
+                      <label>Адрес электронной почты:</label>
+                      <div class="field">
+                        <input type="text" value="info@systemgroup.uz" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Ф.И.О. директора</label>
+                  <div class="field">
+                    <input type="text" value="Турдалиев Рустам Ахмадович" class="formField"/>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>ИНН директора</label>
+                  <div class="field">
+                    <input type="text" value="123456789" class="formField"/>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Серия и номер паспорта директора</label>
+                  <div class="field">
+                    <input type="text" value="AA1234567" class="formField"/>
+                  </div>
+                </div>
+                <hr/>
+                <h4 class="title-4">Банковские реквизиты:</h4>
+                <div id="mfoInput" class="row10">
+                  <div class="colp10-3">
+                    <div class="formControl">
+                      <label>МФО:</label>
+                      <div class="field">
+                        <input type="number" value="" v-model="mfo" v-on:input="inputMfo()" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-9">
+                    <div class="formControl">
+                      <label>Наименование обслуживающего банка:</label>
+                      <div class="field">
+                        <input type="text" value="" v-model="bankTitle" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Банковский счет:</label>
+                  <div class="row10">
+                    <div class="colp10-6">
+                      <div class="field">
+                        <input type="text" value="12345678912345678912" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <hr/>
+                <h4 class="title-4">Сотрудники организации:</h4>
+                <div class="formControl">
+                  <label>Общее количество работников согласно штатному расписанию:</label>
+                  <div class="row10">
+                    <div class="colp10-6">
+                      <div class="field">
+                        <input type="number" value="100" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Количество иностранных работников:</label>
+                  <div class="row10">
+                    <div class="colp10-6">
+                      <div class="field">
+                        <input type="number" value="12" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <hr/>
+                <div class="clearFix textRight"><a href="company-data.html" class="btn0 btnDefault left">Назад</a>
+                  <button type="submit" class="btn0 btnGreen">Сохранить</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end #mainWrap-->
+    <!-- start #footer-->
+    <div id="footer">
+      <div class="mainContainer">
+        <div class="footer">
+          <div class="footerText textCenter">2018  Министерство занятости и трудовых отношений Республики Узбекистан</div>
+        </div>
+      </div>
+      <script src="js/vue.js"></script>
+      <script src="js/vue-scripts.js"></script>
+    </div>
+    <!-- end #footer-->
+  </body>
+</html>

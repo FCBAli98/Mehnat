@@ -1,0 +1,288 @@
+/*
+font-family: "Roboto-Black";
+font-family: "Roboto-Bold";
+font-family: "Roboto-Italic";
+font-family: "Roboto-Light";
+font-family: "Roboto-LightItalic";
+font-family: "Roboto-Medium";
+font-family: "Roboto-Regular";
+font-family: "Roboto-Thin";
+font-family: "RobotoCondensed-Bold";
+font-family: "RobotoCondensed-Italic";
+font-family: "RobotoCondensed-Light";
+font-family: "RobotoCondensed-Regular";
+*/
+@media screen and (max-width: 1000px) {
+  .headerNav ul li a {
+    font-size: 13px;
+    padding: 0 10px 0 4px; }
+  .news2List ul li {
+    width: 50%; }
+  .staticPageRow [class*="colp15-"] {
+    width: 100%; }
+  .staticPageRow .colp15-6 {
+    margin: 0 0 30px; }
+  .staticPageRow .sideBarNavs {
+    max-width: 100%; }
+  .servicesTabsBodies .informationServices,
+  .servicesTabsBodies .onlineServices {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2; } }
+
+@media screen and (max-width: 900px) {
+  .topHeader .headerNav {
+    display: none; }
+  .btnNav,
+  #mobMainNav {
+    display: block; }
+  .servicesBlock [class*='colp10-'] {
+    width: 100%;
+    margin: 0 0 30px; }
+  .informationServices {
+    padding: 0; }
+  .headDocumentsPage [class*="colp15-"] {
+    width: 100%; }
+  .headDocumentsPage .searchBlock {
+    max-width: 100%; }
+  .sideBarNavs ul li a {
+    font-size: 14px; }
+  .headDocumentsPage .colp15-4 {
+    padding-top: 0; }
+  .topHeaderRight.right {
+    float: none; }
+    .topHeaderRight.right:after {
+      width: 0;
+      height: 0;
+      clear: both;
+      content: '';
+      display: block; }
+    .topHeaderRight.right .topHeaderUl {
+      float: left; } }
+
+@media screen and (max-width: 800px) {
+  .logo {
+    width: 200px; }
+  .newsBox {
+    padding: 10px; }
+  .newsList ul {
+    margin: -10px; }
+  .newsList ul li {
+    padding: 10px; }
+  .pageColls [class*="colp15-"] {
+    width: 100%; }
+  .pageColls .contentItems,
+  .pageColls .sideBarNavs {
+    max-width: 100%; }
+  .pageColls .sideBarNavs {
+    margin: 0 0 20px; }
+  .headerCell {
+    padding: 5px 0; } }
+
+@media screen and (max-width: 700px) {
+  .staticPage {
+    padding: 0 0 20px; }
+  .staticPageWrap {
+    margin: 0 -15px 15px; }
+  .staticPageFooter {
+    text-align: left; }
+  .staticPageShareList {
+    margin: 0; }
+  .staticPageShareList a {
+    margin: 0 8px 0 0; }
+  .tableTabs tbody tr td,
+  .tableTabs tbody tr,
+  .tableTabs tbody,
+  .tableTabs {
+    display: block;
+    width: 100%; }
+  .tableTabs tbody tr td {
+    margin: 0 0 20px; }
+  .servicesTabsBodies .informationServices,
+  .servicesTabsBodies .onlineServices {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1; }
+  .servicesTabsNav nav,
+  .servicesTabsNav nav ul,
+  .servicesTabsNav nav ul li {
+    display: block; }
+  .servicesTabsNav nav ul li.active {
+    background: #c7d2d9; }
+    .servicesTabsNav nav ul li.active a:after {
+      display: none; } }
+
+@media screen and (max-width: 600px) {
+  .newsList ul li {
+    width: 100%; }
+  .headerCell {
+    padding: 20px 0; }
+  #footer [class*='colp20-'] {
+    width: 100%; }
+  .footerText {
+    margin: 0 0 20px; }
+  .bannerButtons .left {
+    float: none;
+    margin: 0 0 10px; }
+  .header .headerCell {
+    display: none; }
+  .logo {
+    width: 100%; }
+    .logo a {
+      height: 100%; }
+  .fixed .logo {
+    height: 80px; }
+  #mobMainNav .headerCell {
+    display: block;
+    padding: 15px !important;
+    border-bottom: 1px solid rgba(44, 199, 247, 0.2);
+    color: #fff; }
+    #mobMainNav .headerCell .headerBL {
+      color: #fff; }
+    #mobMainNav .headerCell .snList li a {
+      color: #fff; }
+      #mobMainNav .headerCell .snList li a:hover {
+        color: #00588e; }
+    #mobMainNav .headerCell .snList li a:before {
+      background: #fff; }
+    #mobMainNav .headerCell .telBlock {
+      color: #fff; }
+      #mobMainNav .headerCell .telBlock strong {
+        color: #fff; }
+  .specialViewParams [class*='colp10-'] {
+    width: 100%; }
+  .servicesCellBody [class*='colp5-'] {
+    width: 100%;
+    margin: 0 0 20px; }
+  .sliderLinksSites ul li {
+    text-align: center; }
+    .sliderLinksSites ul li .siteLogo {
+      float: none;
+      margin: 0 auto 10px; }
+  .moblogoBlock {
+    display: block;
+    position: relative;
+    z-index: 9999; }
+  #special-view {
+    padding: 20px 0 40px; }
+  .bannerItem {
+    height: 300px; }
+  .bannerButtons {
+    margin: -80px 0 0; }
+  .firstContent {
+    padding-top: 20px; }
+  .searchBlock {
+    position: fixed;
+    top: 0;
+    right: -300px;
+    height: 100%;
+    overflow-y: auto;
+    width: 250px;
+    opacity: 0;
+    transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    background: #fff;
+    z-index: 99999;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    padding: 20px 15px 40px; }
+    .searchBlock table tbody tr td,
+    .searchBlock table tbody tr,
+    .searchBlock table tbody,
+    .searchBlock table {
+      display: block;
+      padding: 0 0 10px;
+      width: 100%; }
+    .searchBlock .btn0 {
+      width: 100%; }
+  .headDocumentsPage .title {
+    margin: 0 0 18px; }
+  #searchBtn {
+    display: block;
+    margin: 0 0 18px; }
+  .headDocumentsPage [class*="colp15-"] {
+    padding-bottom: 0; }
+  #closeSearch {
+    display: block;
+    margin: 10px 0 0; }
+  .openedSearchBlock {
+    overflow: hidden; }
+    .openedSearchBlock #mask {
+      display: block; }
+    .openedSearchBlock .searchBlock {
+      right: 0;
+      opacity: 1; }
+  .title-28 {
+    font-size: 22px; }
+  .staticPageHead .title {
+    margin: 0 0 18px; }
+  .personHistoryDesc {
+    width: 75%; }
+  .personHistoryItem:after {
+    left: 75%; }
+  .personHistoryItem:before {
+    left: 74.5%; }
+  .modalPage {
+    padding: 150px 0 0; }
+  .modalPageInnerWrap {
+    padding: 30px 0 60px; }
+  .modalPageBody .colp15-6 {
+    width: 100%; }
+  .personalCard {
+    padding: 10px 0 !important; }
+  .personalBlock {
+    padding: 15px; }
+  .personalImage {
+    float: none;
+    margin: 0 0 10px;
+    width: 100%;
+    height: auto;
+    padding: 80% 0 0; }
+  .specialViewButtons1 {
+    display: block; }
+  .closeSpecialView {
+    display: none; }
+  #mobMainNav .languages {
+    display: block; } }
+
+@media screen and (max-width: 500px) {
+  .personHistoryDesc {
+    width: 100%;
+    float: none; }
+  .personHistoryPeriod {
+    padding: 0;
+    text-align: left; }
+  .personHistoryItem {
+    padding-left: 15px !important;
+    overflow: visible; }
+    .personHistoryItem:after {
+      left: 0; }
+    .personHistoryItem:before {
+      left: -2px; }
+  .specialViewModalContent {
+    padding: 30px 15px; } }
+
+@media screen and (max-width: 450px) {
+  .staticPageShareLabel {
+    float: none;
+    display: block; } }
+
+@media screen and (max-width: 400px) {
+  .footerList [class*='colp15-'] {
+    width: 100%;
+    margin: 0 0 10px; }
+  .specialViewButtons a {
+    width: 100%;
+    margin: 0 0 10px; }
+  .topHeader .languages {
+    display: none; }
+  .bannerBtn {
+    padding: 0 24px; }
+  .news2List ul li {
+    width: 100%; } }

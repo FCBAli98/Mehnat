@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Система привлечения иностранных рабочих сил</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+    <link rel="stylesheet" href="css/defaultStyles.css"/>
+    <link rel="stylesheet" href="css/icons.css"/>
+    <link rel="stylesheet" href="css/fonts.css"/>
+    <link rel="stylesheet" href="css/font-awesome.css"/>
+    <link rel="stylesheet" href="css/enjoyhint.css"/>
+    <link rel="stylesheet" href="css/select2.min.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/media.css"/>
+    <script src="js/jquery.js"></script>
+    <script src="js/enjoyhint.min.js"></script>
+    <script src="js/kinetic-v5.1.0.min.js"></script>
+    <script src="js/select2.min.js"></script>
+    <script src="js/banks.js"></script>
+    <script src="js/countries.js"></script>
+    <script src="js/combodate.js"></script>
+    <script src="js/jquery.inputmask.bundle.min.js"></script>
+    <script src="js/moment.min.js"></script>
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+    <!-- start #mainWrap-->
+    <div id="mainWrap">
+      <!-- start #header-->
+      <div id="header">
+        <div class="topHeader">
+          <div class="mainContainer minContainer">
+            <div class="left"><i class="fa fa-calendar"></i>&nbsp;<span>Дата: <strong>25.04.2019 г.</strong></span></div>
+            <div class="right">
+              <div class="langs">
+                <ul>
+                  <li><a href="#">O’zbekcha</a></li>
+                  <li><a href="#">Узбекча</a></li>
+                  <li class="active"><a href="#">Русский</a></li>
+                </ul>
+              </div>
+              <div class="exitBtn"><a href="languages.html">Выйти из кабинета <i class="fa fa-sign-out" aria-hidden="true"></i></a></div>
+            </div>
+          </div>
+        </div>
+        <div class="header">
+          <div class="mainContainer minContainer">
+            <div class="logo"><a href="index.html"><img src="images/logo.svg" alt=""/></a></div>
+            <nav class="headerNav">
+              <ul>
+                <li><a href="index.html"><i class="fa fa-home"></i> Главная </a></li>
+                <li><a href="company-data.html"><i class="fa fa-cogs"></i> Данные компании</a></li>
+              </ul>
+            </nav>
+            <div class="headerRight">
+              <nav class="headerNav">
+                <ul>
+                  <li><a href="#"><i class="fa fa-info-circle"></i> Правовая информация</a></li>
+                  <li><a href="#"><i class="fa fa-info-circle"></i> Помощь по системе</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end #header-->
+      <!-- start #content-->
+      <div id="content">
+        <div class="fullPage">
+          <div class="mainContainer minContainer">
+            <div class="contentBlock">
+              <table>
+                <tr>
+                  <td valign="top">
+                    <h1 class="abonentName">ООО "Smart Technologies Group"</h1>
+                    <div class="itemsList">
+                      <div class="item"><strong>Почтовый адрес</strong>
+                        <p>Ташкент, Мирзо-Улугбекский район, улица Паркентская, дом 13а, квартира 235</p>
+                      </div>
+                    </div>
+                    <div class="fs16">
+                      <div class="optionL">ИНН:<span>984151348</span></div>
+                      <div class="optionL">СОАТО:<span>1254624</span></div>
+                      <div class="optionL">ОКЭД:<span>12762</span></div>
+                      <div class="optionL">ФС:<span>521</span></div>
+                      <div class="optionL">ОПФ:<span>145</span></div>
+                      <div class="optionL">ОКПО:<span>54781254</span></div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </div>
+          <div class="mainContainer cartContainer">
+            <p><a href="select-citizen.html">Назад</a></p><br/>
+            <div class="contentBlock">
+              <div class="title-3 textCenter">Заявление<br> на получение подтверждения на право трудовой деятельности<br> на территории Республики Узбекистан</div>
+              <form action="preview-confirmation.html">
+                <h4 class="title-4">Персональные данные гражданина:</h4>
+                <div class="formControl">
+                  <label>Ф.И.О.:</label>
+                  <div class="field">
+                    <input type="text" class="formField"/>
+                  </div>
+                </div>
+                <div class="row10">
+                  <div class="colp10-6">
+                    <div class="formControl">
+                      <label>Дата рождения:</label>
+                      <div class="field">
+                        <input type="text" class="combodate"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-6">
+                    <div class="formControl">
+                      <label>Пол:</label>
+                      <div class="field">
+                        <select class="formField">
+                          <option value="">Выберите</option>
+                          <option value="1">Мужской</option>
+                          <option value="2">Женский</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Гражданство:</label>
+                  <div class="field">
+                    <select class="js-select-2-countries">
+                      <option value="">Выберите</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Серия и номер паспорта:</label>
+                  <div class="field">
+                    <input type="text" class="formField"/>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Статус:</label>
+                  <div class="field">
+                    <select class="formField">
+                      <option value="">Выберите</option>
+                      <option value="1">холост(а)</option>
+                      <option value="1">замужем</option>
+                      <option value="1">женат</option>
+                      <option value="1">разведен</option>
+                    </select>
+                  </div>
+                </div>
+                <hr/>
+                <h4 class="title-4">Образование и опыт работы:</h4>
+                <div class="formControl">
+                  <label>Образование:</label>
+                  <div class="field">
+                    <select class="formField">
+                      <option value="">Выберите</option>
+                      <option value="1">высшее</option>
+                      <option value="1">среднее</option>
+                      <option value="1">средне-специальное</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Наименование учебного заведения:</label>
+                  <div class="field">
+                    <input type="text" class="formField"/>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Специальность:</label>
+                  <div class="field">
+                    <input type="text" class="formField"/>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Опыт работы по заявленной специальности:</label>
+                  <div class="row10">
+                    <div class="colp10-3">
+                      <div class="field fieldWithPrefix">
+                        <input type="number" class="formField"/>
+                        <div class="fieldPrefix">лет</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Последнее место работы:</label>
+                  <div class="field">
+                    <input type="text" class="formField"/>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Сведения о работодателе:</label>
+                  <div class="field">
+                    <input type="text" class="formField"/>
+                  </div>
+                </div>
+                <hr/>
+                <h4 class="title-4">Сведения:</h4>
+                <div class="row10">
+                  <div class="colp10-6">
+                    <div class="formControl">
+                      <label>Тип визы:</label>
+                      <div class="field">
+                        <select class="formField">
+                          <option value="">Выберите</option>
+                          <option value="1">Т</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-6">
+                    <div class="formControl">
+                      <label>Номер визы:</label>
+                      <div class="field">
+                        <input type="number" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Сроки прохождения регистрации в ОМиОГе (при наличии):</label>
+                  <div class="field">
+                    <input type="text" class="combodate"/>
+                  </div>
+                </div>
+                <div class="formControl">
+                  <label>Адрес проживания в Республике Узбекистан:</label>
+                  <div class="field">
+                    <input type="text" class="formField"/>
+                  </div>
+                </div>
+                <div class="row10">
+                  <div class="colp10-6">
+                    <div class="formControl">
+                      <label>Номер телефона:</label>
+                      <div class="field fieldWithPrefix">
+                        <div class="fieldPrefix">+998</div>
+                        <input type="tel" value="" class="formField jq-phone-mask"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-6">
+                    <div class="formControl">
+                      <label>Адрес электронной почты:</label>
+                      <div class="field">
+                        <input type="text" value="" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <hr/>
+                <div id="toggle-buttons" class="row10">
+                  <div class="colp10-6">
+                    <div class="formControl">
+                      <label>Пребывал ли ранее в Республике Узбекистан:</label>
+                      <div class="radioButtonsList">
+                        <label>
+                          <input type="radio" name="radio1" value="1" v-model="toggle"/><span>Да</span>
+                        </label>
+                        <label>
+                          <input type="radio" name="radio1" value="0" v-model="toggle"/><span>Нет</span>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="colp10-6">
+                    <div v-show="toggle == 1" class="formControl">
+                      <label>Дата:</label>
+                      <div class="field"><span>c </span>
+                        <input type="text" class="combodate"/>&nbsp;
+                        &nbsp;<span>до </span>
+                        <input type="text" class="combodate"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <hr/>
+                <h4 class="title-4">Файлы:</h4>
+                <div class="table1 tableBordered tableHovered inputsFileTable">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>1</td>
+                        <td width="400">Копия паспорта иностранного гражданина</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>2</td>
+                        <td width="400">Копия въездной визы</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>3</td>
+                        <td width="400">Фотография (цветная) 3х4 см</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>4</td>
+                        <td width="400">Проект трудового договора, подтверждающий предварительную договоренность с работодателем о намерении и условиях привлечения иностранного работника на территорию Республики Узбекистан, с указанием размера заработной платы (вознаграждения)</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>5</td>
+                        <td width="400">Сертификат об отсутствии ВИЧ-инфекции, выданный медицинскими учреждениями Республики Узбекистан</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>6</td>
+                        <td width="400">Документы, подтверждающие квалификацию иностранного гражданина</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>7</td>
+                        <td width="400">Краткие сведения о работодателе</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>8</td>
+                        <td width="400">Копия паспорта работодателя</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>9</td>
+                        <td>Копия платежного документа, подтверждающего внесение заявителем сбора за рассмотрение заявления в размере одной минимальной заработной платы</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="clearFix textRight"><a href="select-citizen.html" class="btn0 btnDefault left">Назад</a>
+                  <button class="btn0 btnGreen">Предпросмотр</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end #mainWrap-->
+    <!-- start #footer-->
+    <div id="footer">
+      <div class="mainContainer">
+        <div class="footer">
+          <div class="footerText textCenter">2018  Министерство занятости и трудовых отношений Республики Узбекистан</div>
+        </div>
+      </div>
+      <script src="js/vue.js"></script>
+      <script src="js/vue-scripts.js"></script>
+    </div>
+    <!-- end #footer-->
+  </body>
+</html>

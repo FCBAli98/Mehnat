@@ -1,0 +1,2893 @@
+{
+    "data": [{
+        "pn": "655.",
+        "name_ru": "директор санатория",
+        "name_uz": "санаторий директори",
+        "name_uz-ln": "sanatoriy direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "528.",
+        "name_ru": "директор",
+        "name_uz": "директор",
+        "name_uz-ln": "direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "530.",
+        "name_ru": "директор (глава) представительства",
+        "name_uz": "вакиллик директори (раҳбари)",
+        "name_uz-ln": "vakillik direktori (rahbari)",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "531.",
+        "name_ru": "директор (заведующий ) спортивного сооружения",
+        "name_uz": "спорт иншооти директори (мудири)",
+        "name_uz-ln": "sport inshooti direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "532.",
+        "name_ru": "директор (заведующий) библиотеки",
+        "name_uz": "кутубхона директори (мудири)",
+        "name_uz-ln": "kutubxona direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "533.",
+        "name_ru": "директор (заведующий) бюро (кинопередвижек, путешествий, экскурсий)",
+        "name_uz": "бюро (кўчма кино, саёҳат, экскурсия) директори (мудири)",
+        "name_uz-ln": "byuro (ko‘chma kino, sayohat, ekskursiya) direktori (mudiri)",
+        "nskz_code": "1318",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "534.",
+        "name_ru": "директор (заведующий) выставки",
+        "name_uz": "кўргазма директори (мудири)",
+        "name_uz-ln": "ko‘rgazma direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "535.",
+        "name_ru": "директор (заведующий) зоны отдыха",
+        "name_uz": "дам олиш зонаси директори (мудири)",
+        "name_uz-ln": "dam olish zonasi direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "536.",
+        "name_ru": "директор (заведующий) интерната",
+        "name_uz": "интернат директори (мудири)",
+        "name_uz-ln": "internat direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "537.",
+        "name_ru": "директор (заведующий) кабинета (методического, учебно-методического)",
+        "name_uz": "кабинет (услубий, ўқув-услубий) директори (мудири)",
+        "name_uz-ln": "kabinet (uslubiy, o‘quv-uslubiy) direktori (mudiri)",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "538.",
+        "name_ru": "директор (заведующий) лаборатории",
+        "name_uz": "лаборатория директори (мудири)",
+        "name_uz-ln": "laboratoriya direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "539.",
+        "name_ru": "директор (заведующий) лектория",
+        "name_uz": "маърузахона директори (мудири)",
+        "name_uz-ln": "ma’ruzaxona direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "540.",
+        "name_ru": "директор (заведующий) минибанка",
+        "name_uz": "минибанк директори (мудири)",
+        "name_uz-ln": "minibank direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "541.",
+        "name_ru": "директор (заведующий) музея",
+        "name_uz": "музей директори (мудири)",
+        "name_uz-ln": "muzey direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "542.",
+        "name_ru": "директор (заведующий) образовательного учреждения",
+        "name_uz": "ўқув муассасаси директори (мудири)",
+        "name_uz-ln": "o‘quv muassasasi direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "543.",
+        "name_ru": "директор (заведующий) обсерватории",
+        "name_uz": "обсерватория директори (мудири)",
+        "name_uz-ln": "observatoriya direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "544.",
+        "name_ru": "директор (заведующий) парка (сада) культуры и отдыха",
+        "name_uz": "маданият ва истироҳат боғи директори (мудири)",
+        "name_uz-ln": "madaniyat va istirohat bog‘i direktori (mudiri)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "545.",
+        "name_ru": "директор (заведующий) питомника",
+        "name_uz": "питомник директори (мудири",
+        "name_uz-ln": "pitomnik direktori (mudiri",
+        "nskz_code": "1311",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "546.",
+        "name_ru": "директор (заведующий) предприятия общественного питания",
+        "name_uz": "умумий овқатланиш корхонаси директори (мудири)",
+        "name_uz-ln": "umumiy ovqatlanish korxonasi direktori (mudiri)",
+        "nskz_code": "1318",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "547.",
+        "name_ru": "директор (заведующий) предприятия оптовой торговли",
+        "name_uz": "кўтара савдо корхонаси директори (мудири)",
+        "name_uz-ln": "ko‘tara savdo korxonasi direktori (mudiri)",
+        "nskz_code": "1314",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "548.",
+        "name_ru": "директор (заведующий) предприятия розничной торговли",
+        "name_uz": "чакана савдо корхонаси директори (мудири)",
+        "name_uz-ln": "chakana savdo korxonasi direktori (mudiri)",
+        "nskz_code": "1314",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "549.",
+        "name_ru": "директор (заведующий) спортивного сооружения",
+        "name_uz": "спорт иншооти директори (мудири)",
+        "name_uz-ln": "sport inshooti direktori (mudiri)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "550.",
+        "name_ru": "директор (заведующий) хозяйства (лесоохотничьего, охотничьего, подсобного сельского, прудового, рыбоводного)",
+        "name_uz": "хўжалик (ўрмон-ов, ов, қишлоқ таморқа, пруд, балиқчилик) директори (мудири)",
+        "name_uz-ln": "xo‘jalik (o‘rmon-ov, ov, qishloq tamorqa, prud, baliqchilik) direktori (mudiri)",
+        "nskz_code": "1311",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "551.",
+        "name_ru": "директор (начальник) автовокзала",
+        "name_uz": "автовокзал директории (бошлиғи)",
+        "name_uz-ln": "avtovokzal direktorii (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "552.",
+        "name_ru": "директор (начальник) вычислительного (информационно-вычислительного) центра",
+        "name_uz": "ҳисоблаш (информацион-ҳисоблаш) маркази директори (бошлиғи)",
+        "name_uz-ln": "hisoblash (informatsion-hisoblash) markazi direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "553.",
+        "name_ru": "директор (начальник) гидроэлектростанции (каскада)",
+        "name_uz": "гидроэлектростанция (каскад) директори (бошлиғи)",
+        "name_uz-ln": "gidroelektrostantsiya (kaskad) direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "554.",
+        "name_ru": "директор (начальник) департамента",
+        "name_uz": "департамент директори (бошлиғи)",
+        "name_uz-ln": "departament direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "555.",
+        "name_ru": "директор (начальник) инженерного центра",
+        "name_uz": "мухандислик маркази директори (бошлиғи)",
+        "name_uz-ln": "muxandislik markazi direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "556.",
+        "name_ru": "директор (начальник) курсов повышения квалификации",
+        "name_uz": "малака ошириш курслари директори (бошлиғи)",
+        "name_uz-ln": "malaka oshirish kurslari direktori (boshlig‘i)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "557.",
+        "name_ru": "директор (начальник) научно-производственного комплекса (центра)",
+        "name_uz": "илмий-ишлаб чиқариш мажмуаси (маркази) директори (бошлиғи)",
+        "name_uz-ln": "ilmiy-ishlab chiqarish majmuasi (markazi) direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "558.",
+        "name_ru": "директор (начальник) организации (изыскательной, конструкторской, проектной)",
+        "name_uz": "ташкилот (тадқиқот, конструкторлик, лойиҳа) директори (бошлиғи)",
+        "name_uz-ln": "tashkilot (tadqiqot, konstruktorlik, loyiha) direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "559.",
+        "name_ru": "директор (начальник) по работе с клиентами",
+        "name_uz": "клиент (мижоз)лар билан ишлаш директори (бошлиғи)",
+        "name_uz-ln": "klient (mijoz)lar bilan ishlash direktori (boshlig‘i)",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "560.",
+        "name_ru": "директор (начальник) преобразовательного комплекса",
+        "name_uz": "ўзгартириш мажмуаси директори (бошлиғи)",
+        "name_uz-ln": "o‘zgartirish majmuasi direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "561.",
+        "name_ru": "директор (начальник) тепловой станции",
+        "name_uz": "иссиқлик станцияси директори (бошлиғи)",
+        "name_uz-ln": "issiqlik stantsiyasi direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "562.",
+        "name_ru": "директор (начальник) учебного заведения",
+        "name_uz": "ўқув муассасаси директори (бошлиғи)",
+        "name_uz-ln": "o‘quv muassasasi direktori (boshlig‘i)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "563.",
+        "name_ru": "директор (начальник) учебного пункта",
+        "name_uz": "ўқув пункти директори (бошлиғи)",
+        "name_uz-ln": "o‘quv punkti direktori (boshlig‘i)",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "564.",
+        "name_ru": "директор (начальник) элеватора",
+        "name_uz": "элеватор директори (бошлиғи)",
+        "name_uz-ln": "elevator direktori (boshlig‘i)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "565.",
+        "name_ru": "директор (начальник, уполномоченный) дирекции",
+        "name_uz": "дирекция директори (бошлиғи, вакили)",
+        "name_uz-ln": "direktsiya direktori (boshlig‘i, vakili)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "566.",
+        "name_ru": "директор (управляющий) предприятия",
+        "name_uz": "корхона директори (бошқарувчиси)",
+        "name_uz-ln": "korxona direktori (boshqaruvchisi)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "567.",
+        "name_ru": "директор автотранспортного предприятия",
+        "name_uz": "автотранспорт корхонаси директори",
+        "name_uz-ln": "avtotransport korxonasi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "568.",
+        "name_ru": "директор агентства",
+        "name_uz": "агентлик директори",
+        "name_uz-ln": "agentlik direktori",
+        "nskz_code": "1313",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "568.1",
+        "name_ru": "директор агрофирмы",
+        "name_uz": "агрофирма директори",
+        "name_uz-ln": "agrofirma direktori",
+        "nskz_code": "1311",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "569.",
+        "name_ru": "директор акционерного общества",
+        "name_uz": "акционерлик жамияти дирекетори",
+        "name_uz-ln": "aktsionerlik jamiyati direketori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "570.",
+        "name_ru": "директор аукциона",
+        "name_uz": "аукцион директори",
+        "name_uz-ln": "auktsion direktori",
+        "nskz_code": "1317",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "571.",
+        "name_ru": "директор базы",
+        "name_uz": "база директори",
+        "name_uz-ln": "baza direktori",
+        "nskz_code": "1235",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "572.",
+        "name_ru": "директор бибколлектора",
+        "name_uz": "бибколлектор директори",
+        "name_uz-ln": "bibkollektor direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "573.",
+        "name_ru": "директор ботанического сада",
+        "name_uz": "ботаника боғи директори",
+        "name_uz-ln": "botanika bog‘i direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "574.",
+        "name_ru": "директор внешкольного учреждения",
+        "name_uz": "мактабдан ташқари муассаса директори",
+        "name_uz-ln": "maktabdan tashqari muassasa direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "575.",
+        "name_ru": "директор газоперерабатывающего завода",
+        "name_uz": "газни қайта ишлаш заводи директори",
+        "name_uz-ln": "gazni qayta ishlash zavodi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "576.",
+        "name_ru": "директор гимназии",
+        "name_uz": "гимназия директори",
+        "name_uz-ln": "gimnaziya direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "577.",
+        "name_ru": "директор главного центра информатизации",
+        "name_uz": "бош ахборотлаштириш маркази директори",
+        "name_uz-ln": "bosh axborotlashtirish markazi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "578.",
+        "name_ru": "директор гостиницы",
+        "name_uz": "меҳмонхона директори",
+        "name_uz-ln": "mehmonxona direktori",
+        "nskz_code": "1315",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "579.",
+        "name_ru": "директор государственного архива",
+        "name_uz": "давлат архиви директори",
+        "name_uz-ln": "davlat arxivi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "580.",
+        "name_ru": "директор государственного заповедника",
+        "name_uz": "давлат қўриқхонаси директори",
+        "name_uz-ln": "davlat qo‘riqxonasi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "581.",
+        "name_ru": "директор государственной заводской конюшни",
+        "name_uz": "давлат завод отхонаси директори",
+        "name_uz-ln": "davlat zavod otxonasi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "582.",
+        "name_ru": "директор дворца (бракосочетания, культуры, спорта, школьников)",
+        "name_uz": "сарой (никоҳдан ўтказиш, маданият, спорт, ўкувчилар саройи) директори",
+        "name_uz-ln": "saroy (nikohdan o‘tkazish, madaniyat, sport, o‘kuvchilar saroyi) direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "583.",
+        "name_ru": "директор департамента",
+        "name_uz": "департамент директори",
+        "name_uz-ln": "departament direktori",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "584.",
+        "name_ru": "директор департамента по продажам",
+        "name_uz": "сотув департаменти директори",
+        "name_uz-ln": "sotuv departamenti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "585.",
+        "name_ru": "директор департамента по производству",
+        "name_uz": "ишлаб чиқариш департаменти директори",
+        "name_uz-ln": "ishlab chiqarish departamenti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "586.",
+        "name_ru": "директор департамента по работе с персоналом",
+        "name_uz": "ходимлар билан ишлаш департаменти директори",
+        "name_uz-ln": "xodimlar bilan ishlash departamenti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "587.",
+        "name_ru": "директор департамента по развитию",
+        "name_uz": "ривожлантириш ишлари департаменти директори",
+        "name_uz-ln": "rivojlantirish ishlari departamenti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "588.",
+        "name_ru": "директор департамента развития",
+        "name_uz": "тарққиёт департаменти директори",
+        "name_uz-ln": "tarqqiyot departamenti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "589.",
+        "name_ru": "директор детского дома «мехрибонлик», детского городка",
+        "name_uz": "болалар шаҳарчаси, “меҳрибонлик” болалар уйи директори",
+        "name_uz-ln": "bolalar shaharchasi, “mehribonlik” bolalar uyi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "590.",
+        "name_ru": "директор детского дошкольного учреждения",
+        "name_uz": "мактабгача ёшдаги болалар муассасаси директори",
+        "name_uz-ln": "maktabgacha yoshdagi bolalar muassasasi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "591.",
+        "name_ru": "директор детского оздоровительного комплекса",
+        "name_uz": "болаларни соғломлаштириш мажмуаси директори",
+        "name_uz-ln": "bolalarni sog‘lomlashtirish majmuasi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "592.",
+        "name_ru": "директор детской, юношеской спортивной школы",
+        "name_uz": "болалар, ўсмирлар спорт мактаби директори",
+        "name_uz-ln": "bolalar, o‘smirlar sport maktabi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "593.",
+        "name_ru": "директор дома (детского, звукозаписи, народного творчества, научно-технической пропаганды, отдыха, престарелых и других)",
+        "name_uz": "уй (болалар, овоз ёзиш, халқ ижодиёти,  илмий-техник ташвиқот, дам олиш, кексалар ва бошқалар) директори",
+        "name_uz-ln": "uy (bolalar, ovoz yozish, xalq ijodiyoti,  ilmiy-texnik tashviqot, dam olish, keksalar va boshqalar) direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "594.",
+        "name_ru": "директор дома культуры",
+        "name_uz": "маданият уйи директори",
+        "name_uz-ln": "madaniyat uyi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "594.1",
+        "name_ru": "директор дома-интерната",
+        "name_uz": "уй-интернат директори",
+        "name_uz-ln": "uy-internat direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "595.",
+        "name_ru": "директор завода",
+        "name_uz": "завод директори",
+        "name_uz-ln": "zavod direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "596.",
+        "name_ru": "директор заповедника",
+        "name_uz": "қўриқхона директори",
+        "name_uz-ln": "qo‘riqxona direktori",
+        "nskz_code": "1311",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "597.",
+        "name_ru": "директор зоопарка",
+        "name_uz": "зоопарак директори",
+        "name_uz-ln": "zooparak direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "598.",
+        "name_ru": "директор издательства",
+        "name_uz": "нашриёт директори",
+        "name_uz-ln": "nashriyot direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "599.",
+        "name_ru": "директор института (кроме научно-исследовательских)",
+        "name_uz": "институт директори (илмий-тадқиқот институтидан ташқари)",
+        "name_uz-ln": "institut direktori (ilmiy-tadqiqot institutidan tashqari)",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "600.",
+        "name_ru": "директор института усовершенствования",
+        "name_uz": "малака ошириш институти директори",
+        "name_uz-ln": "malaka oshirish instituti direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "601.",
+        "name_ru": "директор информационного агентства",
+        "name_uz": "ахборот агентлиги директори",
+        "name_uz-ln": "axborot agentligi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "602.",
+        "name_ru": "директор информационно-справочного центра",
+        "name_uz": "ахборот-маълумот маркази директори",
+        "name_uz-ln": "axborot-ma’lumot markazi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "603.",
+        "name_ru": "директор ипподрома",
+        "name_uz": "ипподром директори",
+        "name_uz-ln": "ippodrom direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "686.",
+        "name_ru": "директор школы",
+        "name_uz": "мактаб директори",
+        "name_uz-ln": "maktab direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "604.",
+        "name_ru": "директор касс (театрально-концертных и спортивно-зрелищных)",
+        "name_uz": "касса (театр-концерт ва спорт-кўнгилочар томошалар кассаси) директори",
+        "name_uz-ln": "kassa (teatr-kontsert va sport-ko‘ngilochar tomoshalar kassasi) direktori",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "605.",
+        "name_ru": "директор киностудии",
+        "name_uz": "киностудия директори",
+        "name_uz-ln": "kinostudiya direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "606.",
+        "name_ru": "директор кинотеатра",
+        "name_uz": "кинотеатр директори",
+        "name_uz-ln": "kinoteatr direktori",
+        "nskz_code": "1318",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "607.",
+        "name_ru": "директор книжной палаты",
+        "name_uz": "китоб палатаси директори",
+        "name_uz-ln": "kitob palatasi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "608.",
+        "name_ru": "директор комбината",
+        "name_uz": "комбинат директори",
+        "name_uz-ln": "kombinat direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "609.",
+        "name_ru": "директор коммерческий",
+        "name_uz": "тижорат директори",
+        "name_uz-ln": "tijorat direktori",
+        "nskz_code": "1233",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "610.",
+        "name_ru": "директор коммерческого центра по питанию",
+        "name_uz": "истеъмол бўйича тижорат маркази директори",
+        "name_uz-ln": "iste’mol bo‘yicha tijorat markazi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "611.",
+        "name_ru": "директор комплекса (спортивного, туристского, оздоровительного)",
+        "name_uz": "мажмуа (спорт, туристик, соғломлаштириш) директори",
+        "name_uz-ln": "majmua (sport, turistik, sog‘lomlashtirish) direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "612.",
+        "name_ru": "директор концертной организации",
+        "name_uz": "концерт ташкилоти директори",
+        "name_uz-ln": "kontsert tashkiloti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "613.",
+        "name_ru": "директор котельной (самостоятельной коммунальной)",
+        "name_uz": "директор котельной (самостоятельной коммунальной)",
+        "name_uz-ln": "direktor kotelnoy (samostoyatelnoy kommunalnoy)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "614.",
+        "name_ru": "директор лицея (академического)",
+        "name_uz": "академик лицей директори",
+        "name_uz-ln": "akademik litsey direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "615.",
+        "name_ru": "директор малого предприятия",
+        "name_uz": "кичик корхона директори",
+        "name_uz-ln": "kichik korxona direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "616.",
+        "name_ru": "директор межшкольного учебно-производственного комбината",
+        "name_uz": "мактаблар аро ўқув-ишлаб чиқариш комбинати директори",
+        "name_uz-ln": "maktablar aro o‘quv-ishlab chiqarish kombinati direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "617.",
+        "name_ru": "директор музыкального (танцевального) коллектива",
+        "name_uz": "мусиқа (рақс) жамоаси директори",
+        "name_uz-ln": "musiqa (raqs) jamoasi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "618.",
+        "name_ru": "директор научно-исследовательского (ни) института",
+        "name_uz": "илмий-тадқиқот институти директори",
+        "name_uz-ln": "ilmiy-tadqiqot instituti direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "619.",
+        "name_ru": "директор ни института стандартизации, метрологии и сертификации",
+        "name_uz": "стандартлаштириш, метрология ва сертификатлаштириш илмий-тадқиқот институти директори",
+        "name_uz-ln": "standartlashtirish, metrologiya va sertifikatlashtirish ilmiy-tadqiqot instituti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "620.",
+        "name_ru": "директор объединения (музыкально-эстрадного, производственного)",
+        "name_uz": "бирлашма (мусиқий-эстрада, ишлаб чиқариш) директори",
+        "name_uz-ln": "birlashma (musiqiy-estrada, ishlab chiqarish) direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "620.1",
+        "name_ru": "директор объединения торговли",
+        "name_uz": "савдо бирлашмаси директори",
+        "name_uz-ln": "savdo birlashmasi direktori",
+        "nskz_code": "1233",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "621.",
+        "name_ru": "директор опытно-экспериментального завода",
+        "name_uz": "тажриба-синов заводи директори",
+        "name_uz-ln": "tajriba-sinov zavodi direktori",
+        "nskz_code": "1312",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "622.",
+        "name_ru": "директор отделения",
+        "name_uz": "бўлинма директори",
+        "name_uz-ln": "bo‘linma direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "623.",
+        "name_ru": "директор павильона",
+        "name_uz": "павильон директори",
+        "name_uz-ln": "pavilon direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "624.",
+        "name_ru": "директор панорамы",
+        "name_uz": "панорама директори",
+        "name_uz-ln": "panorama direktori",
+        "nskz_code": "1318",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "529.",
+        "name_ru": "директор пансионата (кемпинга)",
+        "name_uz": "пансионат (кемпинг) директори",
+        "name_uz-ln": "pansionat (kemping) direktori",
+        "nskz_code": "1225",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "625.",
+        "name_ru": "директор планетария",
+        "name_uz": "планитария директори",
+        "name_uz-ln": "planitariya direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "626.",
+        "name_ru": "директор по закупкам",
+        "name_uz": "харид бўйича директор",
+        "name_uz-ln": "xarid bo‘yicha direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "626.1",
+        "name_ru": "директор по информационной безопасности",
+        "name_uz": "ахборот хавфсизлиги раҳбари",
+        "name_uz-ln": "axborot xavfsizligi rahbari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "626.2",
+        "name_ru": "директор по информационным технологиям",
+        "name_uz": "ахборот-технологиялари раҳбари",
+        "name_uz-ln": "axborot-texnologiyalari rahbari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "627.",
+        "name_ru": "директор по кадрам и быту",
+        "name_uz": "кадрлар ва маиший масалалар бўйича  директор",
+        "name_uz-ln": "kadrlar va maishiy masalalar bo‘yicha  direktor",
+        "nskz_code": "1232",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "628.",
+        "name_ru": "директор по капитальному строительству",
+        "name_uz": "капитал қурилиш бўйича директор",
+        "name_uz-ln": "kapital qurilish bo‘yicha direktor",
+        "nskz_code": "1223",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "628.1",
+        "name_ru": "директор по качеству",
+        "name_uz": "сифат назорати раҳабари",
+        "name_uz-ln": "sifat nazorati rahabari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "628.1",
+        "name_ru": "директор по корпоративному управлени",
+        "name_uz": "корпоратив бошқарув раҳбари",
+        "name_uz-ln": "korporativ boshqaruv rahbari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "629.",
+        "name_ru": "директор по маркетингу и продажам",
+        "name_uz": "маркетинг ва сотув бўйича директор",
+        "name_uz-ln": "marketing va sotuv bo‘yicha direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "630.",
+        "name_ru": "директор по материально-техническому снабжению и транспорту",
+        "name_uz": "моддий-техник таъминот ва транспорт бўйича директор",
+        "name_uz-ln": "moddiy-texnik ta’minot va transport bo‘yicha direktor",
+        "nskz_code": "1226",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "631.",
+        "name_ru": "директор по перспективному развитию и инвестициям",
+        "name_uz": "ривожлантириш истиқболи ва инвестиция шлари директори",
+        "name_uz-ln": "rivojlantirish istiqboli va investitsiya shlari direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "632.",
+        "name_ru": "директор по производству",
+        "name_uz": "ишлаб чиқариш бўйича директор",
+        "name_uz-ln": "ishlab chiqarish bo‘yicha direktor",
+        "nskz_code": "1222",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "633.",
+        "name_ru": "директор по развитию",
+        "name_uz": "ривожлантириш бўйича директор",
+        "name_uz-ln": "rivojlantirish bo‘yicha direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "634.",
+        "name_ru": "директор по развитию и инвестициям",
+        "name_uz": "ривожлантириш ва инвестиция бўйича директор",
+        "name_uz-ln": "rivojlantirish va investitsiya bo‘yicha direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "635.",
+        "name_ru": "директор по снабжению и логистике",
+        "name_uz": "таъминот ва логистика бўйича директор",
+        "name_uz-ln": "ta’minot va logistika bo‘yicha direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "635.1",
+        "name_ru": "директор по стратегическому планированию",
+        "name_uz": "стратегик режалаштириш раҳбари",
+        "name_uz-ln": "strategik rejalashtirish rahbari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "635.2",
+        "name_ru": "директор по управлению рисками",
+        "name_uz": "хавф назоратини бошқариш раҳбари",
+        "name_uz-ln": "xavf nazoratini boshqarish rahbari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "636.",
+        "name_ru": "директор по финансам (директор финансовый)",
+        "name_uz": "молиявий ишлар бўйича директор",
+        "name_uz-ln": "moliyaviy ishlar bo‘yicha direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "637.",
+        "name_ru": "директор по экономике",
+        "name_uz": "иқтисодиёт бўйича директор",
+        "name_uz-ln": "iqtisodiyot bo‘yicha direktor",
+        "nskz_code": "1231",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "638.",
+        "name_ru": "директор по экономике и планированию",
+        "name_uz": "иқтисодиёт ва режалаштириш бўйича директор",
+        "name_uz-ln": "iqtisodiyot va rejalashtirish bo‘yicha direktor",
+        "nskz_code": "1231",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "639.",
+        "name_ru": "директор предприятия водоснабжения, теплоснабжения",
+        "name_uz": "иссиқлик ва сув таъминоти корхонаси директори",
+        "name_uz-ln": "issiqlik va suv ta’minoti korxonasi direktori",
+        "nskz_code": "1316",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "640.",
+        "name_ru": "директор предприятия сетей (электрических)",
+        "name_uz": "тармоқлар (электрик) корхонаси директори",
+        "name_uz-ln": "tarmoqlar (elektrik) korxonasi direktori",
+        "nskz_code": "1316",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "641.",
+        "name_ru": "директор программ (радио-телевизионных)",
+        "name_uz": "дастур директори (радио-телевизион)",
+        "name_uz-ln": "dastur direktori (radio-televizion)",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "642.",
+        "name_ru": "директор проектно-изыскательного института",
+        "name_uz": "лойиҳа-қидирув институти директори",
+        "name_uz-ln": "loyiha-qidiruv instituti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "643.",
+        "name_ru": "директор производственного объединения",
+        "name_uz": "ишлаб чиқариш бирлашмаси директори",
+        "name_uz-ln": "ishlab chiqarish birlashmasi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "644.",
+        "name_ru": "директор производственной базы комплектации материалами и оборудованием",
+        "name_uz": "материаллар  ва ускуналар билан бутлаш, ишлаб чиқариш базаси директори",
+        "name_uz-ln": "materiallar  va uskunalar bilan butlash, ishlab chiqarish bazasi direktori",
+        "nskz_code": "1316",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "645.",
+        "name_ru": "директор промысла",
+        "name_uz": "ов директори",
+        "name_uz-ln": "ov direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "646.",
+        "name_ru": "директор профессионального колледжа",
+        "name_uz": "касб-ҳунар коллежи директори",
+        "name_uz-ln": "kasb-hunar kolleji direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "647.",
+        "name_ru": "директор профессиональной школы",
+        "name_uz": "касб-ҳунар мактаби директори",
+        "name_uz-ln": "kasb-hunar maktabi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "648.",
+        "name_ru": "директор профессиональн?-технического учебного заведения",
+        "name_uz": "касб-ҳунар техник билим юрти директори",
+        "name_uz-ln": "kasb-hunar texnik bilim yurti direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "649.",
+        "name_ru": "директор разреза, разрезоуправления (сланцевого, угольного)",
+        "name_uz": "разрез, разрез (сланец, кўмир) бошқармаси  директори",
+        "name_uz-ln": "razrez, razrez (slanets, ko‘mir) boshqarmasi  direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "650.",
+        "name_ru": "директор распорядительной дирекции центрального телевидения",
+        "name_uz": "марказий телевидение бошқарув дирекцияси директори",
+        "name_uz-ln": "markaziy televidenie boshqaruv direktsiyasi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "651.",
+        "name_ru": "директор республиканского туристcко-спортивного комплекса",
+        "name_uz": "республика туристик-спорт мажмуаси директори",
+        "name_uz-ln": "respublika turistik-sport majmuasi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "652.",
+        "name_ru": "директор республиканского центра испытаний и сертификации",
+        "name_uz": "республика синаш ва сертификатлаш маркази директори",
+        "name_uz-ln": "respublika sinash va sertifikatlash markazi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "653.",
+        "name_ru": "директор ресторана",
+        "name_uz": "ресторан директори",
+        "name_uz-ln": "restoran direktori",
+        "nskz_code": "1315",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "654.",
+        "name_ru": "директор рудника (рудоуправления)",
+        "name_uz": "кон (кон бошқармаси) директори",
+        "name_uz-ln": "kon (kon boshqarmasi) direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "656.",
+        "name_ru": "директор службы единого заказчика (инжиниринговая компания)",
+        "name_uz": "инжиниринг компаниясининг ягона буюртмачи хизмати директори",
+        "name_uz-ln": "injiniring kompaniyasining yagona buyurtmachi xizmati direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "657.",
+        "name_ru": "директор стадиона",
+        "name_uz": "стадион директори",
+        "name_uz-ln": "stadion direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "658.",
+        "name_ru": "директор станции (лесосеменной, машиноиспытательной, юных техников и других)",
+        "name_uz": "станция (ўрмон уруғчилиги, машиналарни синаш, ёш техниклар ва бошқалар) директори",
+        "name_uz-ln": "stantsiya (o‘rmon urug‘chiligi, mashinalarni sinash, yosh texniklar va boshqalar) direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "659.",
+        "name_ru": "директор студии (актерской, граммзаписи, звукозаписи, киноактера)",
+        "name_uz": "студия (актёрлик, граммёзув, овоз ёзиш, киноактёрлик) директори",
+        "name_uz-ln": "studiya (aktyorlik, grammyozuv, ovoz yozish, kinoaktyorlik) direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "660.",
+        "name_ru": "директор съемочной группы, картины",
+        "name_uz": "тасвирга тушириш гуруҳи, картина директори",
+        "name_uz-ln": "tasvirga tushirish guruhi, kartina direktori",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "661.",
+        "name_ru": "директор театра",
+        "name_uz": "театр директори",
+        "name_uz-ln": "teatr direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "662.",
+        "name_ru": "директор театрализованного кинопредставления",
+        "name_uz": "театрлашган кинотомошалар директори",
+        "name_uz-ln": "teatrlashgan kinotomoshalar direktori",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "663.",
+        "name_ru": "директор театрально-музыкального коллектива",
+        "name_uz": "театр-мусиқа жамоаси директори",
+        "name_uz-ln": "teatr-musiqa jamoasi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "664.",
+        "name_ru": "директор технический",
+        "name_uz": "техник директор",
+        "name_uz-ln": "texnik direktor",
+        "nskz_code": "1222",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "665.",
+        "name_ru": "директор технического департаме?та",
+        "name_uz": "техник департамент директори",
+        "name_uz-ln": "texnik departament direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "666.",
+        "name_ru": "директор типографии",
+        "name_uz": "босмахона директори",
+        "name_uz-ln": "bosmaxona direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "666.1",
+        "name_ru": "директор учебного центра",
+        "name_uz": "ўқув маркази директори",
+        "name_uz-ln": "o‘quv markazi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "667.",
+        "name_ru": "директор учебно-курсового комбината (пункта)",
+        "name_uz": "ўқув-курслар комбинати (пункт) директори",
+        "name_uz-ln": "o‘quv-kurslar kombinati (punkt) direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "668.",
+        "name_ru": "директор учебно-производственного комбината",
+        "name_uz": "ўқув-ишлаб чиқариш комбинати директори",
+        "name_uz-ln": "o‘quv-ishlab chiqarish kombinati direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "669.",
+        "name_ru": "директор учреждений здравоохранения",
+        "name_uz": "соғлиқни сақлаш муассасаси директори",
+        "name_uz-ln": "sog‘liqni saqlash muassasasi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "670.",
+        "name_ru": "директор фабрики",
+        "name_uz": "фабрика директори",
+        "name_uz-ln": "fabrika direktori",
+        "nskz_code": "1312",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "671.",
+        "name_ru": "директор филиала",
+        "name_uz": "филиал директори",
+        "name_uz-ln": "filial direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "672.",
+        "name_ru": "директор филиала ни института и др. научных учреждений",
+        "name_uz": "илмий-тадқиқот институти филиали ва бошқа илмий муассасалар директори",
+        "name_uz-ln": "ilmiy-tadqiqot instituti filiali va boshqa ilmiy muassasalar direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "673.",
+        "name_ru": "директор фильма",
+        "name_uz": "фильм директори",
+        "name_uz-ln": "film direktori",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "674.",
+        "name_ru": "директор финансово-экономического департамента",
+        "name_uz": "молия-иқтисод департаменти директори",
+        "name_uz-ln": "moliya-iqtisod departamenti direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "675.",
+        "name_ru": "директор финансовый",
+        "name_uz": "молиявий ишлар бўйича директор",
+        "name_uz-ln": "moliyaviy ishlar bo‘yicha direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "676.",
+        "name_ru": "директор фирмы",
+        "name_uz": "фирма директори",
+        "name_uz-ln": "firma direktori",
+        "nskz_code": "1313",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "677.",
+        "name_ru": "директор фонда (музыкального, литературного, художественного и других)",
+        "name_uz": "жамғарма  директори (мусиқий, бадиий, адабий ва бошқа)",
+        "name_uz-ln": "jamg‘arma  direktori (musiqiy, badiiy, adabiy va boshqa)",
+        "nskz_code": "1142",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "678.",
+        "name_ru": "директор хлопкоочистительного (лубяного) завода",
+        "name_uz": "пахта тозалаш (каноп) заводи директори",
+        "name_uz-ln": "paxta tozalash (kanop) zavodi direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "679.",
+        "name_ru": "директор холодильника",
+        "name_uz": "совуқхона директори",
+        "name_uz-ln": "sovuqxona direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "680.",
+        "name_ru": "директор центра (метрологии и стандартизации, научной организации, телевизионного, научного и др.)",
+        "name_uz": "марказ (метрология ва стандартлаш, илмий ташкилот, телевизион ва бошқа) директори",
+        "name_uz-ln": "markaz (metrologiya va standartlash, ilmiy tashkilot, televizion va boshqa) direktori",
+        "nskz_code": "1210, 1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "681.",
+        "name_ru": "директор центра национальных эталонов",
+        "name_uz": "миллий эталонлар маркази директори",
+        "name_uz-ln": "milliy etalonlar markazi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "682.",
+        "name_ru": "директор центра оказанияя метрологических услуг",
+        "name_uz": "метрологик хизмат кўрсатиш маркази директори",
+        "name_uz-ln": "metrologik xizmat ko‘rsatish markazi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "683.",
+        "name_ru": "директор центра штрихового кодирования",
+        "name_uz": "штрихли кодлаш маркази директори",
+        "name_uz-ln": "shtrixli kodlash markazi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "684.",
+        "name_ru": "директор цирка",
+        "name_uz": "цирк директори",
+        "name_uz-ln": "tsirk direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "685.",
+        "name_ru": "директор шахты (шахтоуправления)",
+        "name_uz": "шахта (шахта бошқармаси) директори",
+        "name_uz-ln": "shaxta (shaxta boshqarmasi) direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "687.",
+        "name_ru": "директор школы высшего спортивного мастерства",
+        "name_uz": "олий спорт маҳорати мактаби директори",
+        "name_uz-ln": "oliy sport mahorati maktabi direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "688.",
+        "name_ru": "директор школы-интерната",
+        "name_uz": "мактаб-интернат директори",
+        "name_uz-ln": "maktab-internat direktori",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "689.",
+        "name_ru": "директор-распорядитель",
+        "name_uz": "директор-бошқарувчи",
+        "name_uz-ln": "direktor-boshqaruvchi",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "689.1",
+        "name_ru": "директор единых центров по оказанию государственных услуг субъектам предпринимательства по принципу «одно окно»",
+        "name_uz": "тадбиркорлик субъектларига «ягона дарча» тамойили бўйича давлат хизматлари кўрсатиш давлат хизматлари маркази раҳабари",
+        "name_uz-ln": "tadbirkorlik sub’ektlariga «yagona darcha» tamoyili bo‘yicha davlat xizmatlari ko‘rsatish davlat xizmatlari markazi rahabari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "690.",
+        "name_ru": "дирижер",
+        "name_uz": "дирижер",
+        "name_uz-ln": "dirijer",
+        "nskz_code": "2453",
+        "min_education": "В/О",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "4117.",
+        "name_ru": "раздирщик пакетов",
+        "name_uz": "пакетларни очувчи",
+        "name_uz-ln": "paketlarni ochuvchi",
+        "nskz_code": "8123",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "1 — 3"
+    }, {
+        "pn": "3617.1",
+        "name_ru": "повар-бригадир",
+        "name_uz": "бригадир-ошпаз",
+        "name_uz-ln": "brigadir-oshpaz",
+        "nskz_code": "5122",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "4 — 6"
+    }, {
+        "pn": "3110.",
+        "name_ru": "оператор обдирочных станков",
+        "name_uz": "шилиш дастгоҳи оператори",
+        "name_uz-ln": "shilish dastgohi operatori",
+        "nskz_code": "8211",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 4"
+    }, {
+        "pn": "2937.",
+        "name_ru": "оксидировщик-вакуумщик",
+        "name_uz": "вакуумчи-оксидловчи",
+        "name_uz-ln": "vakuumchi-oksidlovchi",
+        "nskz_code": "8223",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 5"
+    }, {
+        "pn": "2784.",
+        "name_ru": "обдирщик алмазов",
+        "name_uz": "олмосга дағал ишлов берувчи",
+        "name_uz-ln": "olmosga dag‘al ishlov beruvchi",
+        "nskz_code": "7311",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "3 — 6"
+    }, {
+        "pn": "1432.",
+        "name_ru": "карбидировщик",
+        "name_uz": "карбидловчи",
+        "name_uz-ln": "karbidlovchi",
+        "nskz_code": "8223",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "647.",
+        "name_ru": "бригадир-настройщик трубоэлектросварочных станов",
+        "name_uz": "қувур электропайвандлаш станлари бригадир-созловчиси",
+        "name_uz-ln": "quvur elektropayvandlash stanlari brigadir-sozlovchisi",
+        "nskz_code": "7212",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 8"
+    }, {
+        "pn": "646.",
+        "name_ru": "бригадир шихтового двора в сталеплавильном и ферросплавном производствах",
+        "name_uz": "пўлат қуйиш ва ферроқотишмалар ишлаб чиқаришда шихта саройи бригадири",
+        "name_uz-ln": "po‘lat quyish va ferroqotishmalar ishlab chiqarishda shixta saroyi brigadiri",
+        "nskz_code": "8123",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 8"
+    }, {
+        "pn": "645.",
+        "name_ru": "бригадир участка станов холодной прокатки труб",
+        "name_uz": "қувурларни қиздирмай чиғирлаш станлари участкаси бригадири",
+        "name_uz-ln": "quvurlarni qizdirmay chig‘irlash stanlari uchastkasi brigadiri",
+        "nskz_code": "8122",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 8"
+    }, {
+        "pn": "644.",
+        "name_ru": "бригадир участка приготовления формовочной смеси",
+        "name_uz": "қуйма аралашмалар тайёрлаш участкаси бригадири",
+        "name_uz-ln": "quyma aralashmalar tayyorlash uchastkasi brigadiri",
+        "nskz_code": "7211",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "643.",
+        "name_ru": "бригадир участка прессов-расширителей",
+        "name_uz": "пресс-кенгайтирувчилар участкаси бригадири",
+        "name_uz-ln": "press-kengaytiruvchilar uchastkasi brigadiri",
+        "nskz_code": "8123",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "642.",
+        "name_ru": "бригадир трубоволочильного отделения",
+        "name_uz": "қувурни кирялаш бўлими бригадири",
+        "name_uz-ln": "quvurni kiryalash bo‘limi brigadiri",
+        "nskz_code": "8123",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 8"
+    }, {
+        "pn": "641.1",
+        "name_ru": "бригадир сельскохозяйственного участка (ферм и отделений)",
+        "name_uz": "қишлоқ хўжалик участкаси бригадири (ферма, бўлинмада)",
+        "name_uz-ln": "qishloq xo‘jalik uchastkasi brigadiri (ferma, bo‘linmada)",
+        "nskz_code": "6111",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "641.",
+        "name_ru": "бригадир рудного двора",
+        "name_uz": "руда саройи бригадири",
+        "name_uz-ln": "ruda saroyi brigadiri",
+        "nskz_code": "8121",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "640.",
+        "name_ru": "бригадир разработки шлакового отвала",
+        "name_uz": "тўкилган шлак уюмларини ишлаб чиқиш бригадири",
+        "name_uz-ln": "to‘kilgan shlak uyumlarini ishlab chiqish brigadiri",
+        "nskz_code": "8121",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "639.",
+        "name_ru": "бригадир разливочных машин",
+        "name_uz": "қуйиш машиналари бригадири",
+        "name_uz-ln": "quyish mashinalari brigadiri",
+        "nskz_code": "8121",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "638.",
+        "name_ru": "бригадир полеводческой бригады",
+        "name_uz": "дала бригадаси бригадири",
+        "name_uz-ln": "dala brigadasi brigadiri",
+        "nskz_code": "6111",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "4 — 7"
+    }, {
+        "pn": "637.",
+        "name_ru": "бригадир подготовительного отделения",
+        "name_uz": "тайёрлов бўлинмаси бригадири",
+        "name_uz-ln": "tayyorlov bo‘linmasi brigadiri",
+        "nskz_code": "7214",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "636.",
+        "name_ru": "бригадир по перемещению сырья, полуфабрикатов и готовой продукции в процессе производства",
+        "name_uz": "ишлаб чиқариш жараёнида хом-ашё,  ярим тайёр маҳсулотлар ва тайёр маҳсулотни  суриш бригадири",
+        "name_uz-ln": "ishlab chiqarish jarayonida xom-ashyo,  yarim tayyor mahsulotlar va tayyor mahsulotni  surish brigadiri",
+        "nskz_code": "8290",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "635.",
+        "name_ru": "бригадир по отделке, сортировке, приемке, сдаче, пакетировке и упаковке металла и готовой проодукции",
+        "name_uz": "металлни ва тайёр маҳсулотни сайқаллаш, саралаш, қабул қилиш, топшириш, пакетлаш ва ўраш бўйича бригадир",
+        "name_uz-ln": "metallni va tayyor mahsulotni sayqallash, saralash, qabul qilish, topshirish, paketlash va o‘rash bo‘yicha brigadir",
+        "nskz_code": "8290",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "634.",
+        "name_ru": "бригадир отделения центробежных машин",
+        "name_uz": "марказдан қочма машиналар бўлими бригадири",
+        "name_uz-ln": "markazdan qochma mashinalar bo‘limi brigadiri",
+        "nskz_code": "7412",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "4"
+    }, {
+        "pn": "633.",
+        "name_ru": "бригадир отделения калибровки, волочения и шлифовки металла",
+        "name_uz": "металлни калибровкалаш, кирялаш ва силлиқлаш бўлими бригадири",
+        "name_uz-ln": "metallni kalibrovkalash, kiryalash va silliqlash bo‘limi brigadiri",
+        "nskz_code": "8123",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 8"
+    }, {
+        "pn": "632.",
+        "name_ru": "бригадир осмотра и механообработки колес",
+        "name_uz": "ғилдиракларни текшириш ва механик ишлов бериш бригадири",
+        "name_uz-ln": "g‘ildiraklarni tekshirish va mexanik ishlov berish brigadiri",
+        "nskz_code": "7214",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "631.",
+        "name_ru": "бригадир обдирочно-зачистного отделения",
+        "name_uz": "бирламчи ишлов бериш-тозалаш бўлими бригадири",
+        "name_uz-ln": "birlamchi ishlov berish-tozalash bo‘limi brigadiri",
+        "nskz_code": "8290",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "630.",
+        "name_ru": "бригадир на участках основного производства",
+        "name_uz": "асосий ишлаб чиқариш участкалари бригадири",
+        "name_uz-ln": "asosiy ishlab chiqarish uchastkalari brigadiri",
+        "nskz_code": "8290",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "4 — 6"
+    }, {
+        "pn": "629.",
+        "name_ru": "бригадир муфтосварочного отделения",
+        "name_uz": "муфталарни пайвандлаш бўлими бригадири",
+        "name_uz-ln": "muftalarni payvandlash bo‘limi brigadiri",
+        "nskz_code": "8122",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "6 — 8"
+    }, {
+        "pn": "627.",
+        "name_ru": "бригадир колодцев замедленного охлаждения металла",
+        "name_uz": "металлни секин совутиш қудуқлари бригадири",
+        "name_uz-ln": "metallni sekin sovutish quduqlari brigadiri",
+        "nskz_code": "8121",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 8"
+    }, {
+        "pn": "626.",
+        "name_ru": "бригадир изыскательской русловой партии",
+        "name_uz": "чуқурликларда ишловчи қидириш партияси бригадири",
+        "name_uz-ln": "chuqurliklarda ishlovchi qidirish partiyasi brigadiri",
+        "nskz_code": "8113",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "625.",
+        "name_ru": "бригадир заготовительного отделения",
+        "name_uz": "тайёрлов бўлинмаси бригадири",
+        "name_uz-ln": "tayyorlov bo‘linmasi brigadiri",
+        "nskz_code": "8121",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "624.",
+        "name_ru": "бригадир бурильного отделения",
+        "name_uz": "бурғулаш бўлинмаси бригадири",
+        "name_uz-ln": "burg‘ulash bo‘linmasi brigadiri",
+        "nskz_code": "8113",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 6"
+    }, {
+        "pn": "623.",
+        "name_ru": "бригадир бункеров",
+        "name_uz": "бункерлар бригадири",
+        "name_uz-ln": "bunkerlar brigadiri",
+        "nskz_code": "8121",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 8"
+    }, {
+        "pn": "622.",
+        "name_ru": "бригадир (участка, ферм, отделений и др.)",
+        "name_uz": "бригадир (участка, ферма, бўлинма ва бошқада)",
+        "name_uz-ln": "brigadir (uchastka, ferma, bo‘linma va boshqada)",
+        "nskz_code": "8290",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "621.",
+        "name_ru": "бригадир (освобожденный) предприятий железнодорожного транспорта и метрополитена",
+        "name_uz": "темир йўл транспорти корхоналари ва метрополитен бригадири (озод қилинган)",
+        "name_uz-ln": "temir yo‘l transporti korxonalari va metropoliten brigadiri (ozod qilingan)",
+        "nskz_code": "7231",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "620.",
+        "name_ru": "бригадир (освобожденный) по текущему содержанию и ремонту пути и искусственных сооружений",
+        "name_uz": "йўллар ва сунъий қурилмаларга жорий қаров бўйича (озод қилинган) бригадир",
+        "name_uz-ln": "yo‘llar va sun’iy qurilmalarga joriy qarov bo‘yicha (ozod qilingan) brigadir",
+        "nskz_code": "7129",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "619.",
+        "name_ru": "бригадир",
+        "name_uz": "бригадир",
+        "name_uz-ln": "brigadir",
+        "nskz_code": "8290",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5 — 7"
+    }, {
+        "pn": "628.",
+        "name_ru": "бригадир молотового отделения",
+        "name_uz": "болғалаш бўлими бригадири",
+        "name_uz-ln": "bolg‘alash bo‘limi brigadiri",
+        "nskz_code": "7221",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "6 — 8"
+    }, {
+        "pn": "152.",
+        "name_ru": "аппаратчик йодирования",
+        "name_uz": "йодлаш аппаратчиси",
+        "name_uz-ln": "yodlash apparatchisi",
+        "nskz_code": "8221",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "4"
+    }, {
+        "pn": "146.",
+        "name_ru": "аппаратчик имидирования",
+        "name_uz": "имидирлаш аппаратчиси",
+        "name_uz-ln": "imidirlash apparatchisi",
+        "nskz_code": "8159",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "5"
+    }, {
+        "pn": "30.",
+        "name_ru": "алундировщик",
+        "name_uz": "алундирловчи",
+        "name_uz-ln": "alundirlovchi",
+        "nskz_code": "8223",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "2 — 5"
+    }, {
+        "pn": "27.",
+        "name_ru": "аквадировщик",
+        "name_uz": "аквадирловчи",
+        "name_uz-ln": "akvadirlovchi",
+        "nskz_code": "8223",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "w",
+        "range": "3 — 4"
+    }, {
+        "pn": "2844.",
+        "name_ru": "электромеханик-командир",
+        "name_uz": "электромеханик-командир",
+        "name_uz-ln": "elektromexanik-komandir",
+        "nskz_code": "3141",
+        "min_education": "ССПО",
+        "personal_category": "Т",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2784.",
+        "name_ru": "член правления (дирекции) акционерного общества",
+        "name_uz": "акциядорлик жамиятининг бошқаруви (дирекцияси) аъзоси",
+        "name_uz-ln": "aktsiyadorlik jamiyatining boshqaruvi (direktsiyasi) a’zosi",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2736.",
+        "name_ru": "финансовый директор",
+        "name_uz": "молиявий директор",
+        "name_uz-ln": "moliyaviy direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2700.",
+        "name_ru": "управляющий директор",
+        "name_uz": "бошқарувчи директор",
+        "name_uz-ln": "boshqaruvchi direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2667.",
+        "name_ru": "технический директор",
+        "name_uz": "техник директор",
+        "name_uz-ln": "texnik direktor",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2396.",
+        "name_ru": "секретарь дирекции",
+        "name_uz": "дирекция котиби",
+        "name_uz-ln": "direktsiya kotibi",
+        "nskz_code": "4115",
+        "min_education": "ССПО",
+        "personal_category": "Т",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2385.",
+        "name_ru": "руководитель художественный (арт-директор)",
+        "name_uz": "бадиий раҳбар (арт-директор)",
+        "name_uz-ln": "badiiy rahbar (art-direktor)",
+        "nskz_code": "2454",
+        "min_education": "В/О",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2356.",
+        "name_ru": "руководитель (директор) исполнительного органа акционерного общества",
+        "name_uz": "акциядорлик жамиятининг ижрочи органи директори (раҳбари)",
+        "name_uz-ln": "aktsiyadorlik jamiyatining ijrochi organi direktori (rahbari)",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2171.",
+        "name_ru": "помощник генерального директора",
+        "name_uz": "бош директор ёрдамчиси",
+        "name_uz-ln": "bosh direktor yordamchisi",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2169.1",
+        "name_ru": "помощник (руководителя, начальника, директора и др.)",
+        "name_uz": "раҳбар, бошлиқ, директор ва бошқа ёрдамчиси",
+        "name_uz-ln": "rahbar, boshliq, direktor va boshqa yordamchisi",
+        "nskz_code": "2429",
+        "min_education": "В/О",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2165.",
+        "name_ru": "повар-бригадир",
+        "name_uz": "ошпаз-бригадир",
+        "name_uz-ln": "oshpaz-brigadir",
+        "nskz_code": "5122",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2139.",
+        "name_ru": "первый заместитель исполнительного директора",
+        "name_uz": "ижрочи директорнинг биринчи ўринбосари",
+        "name_uz-ln": "ijrochi direktorning birinchi o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2138.",
+        "name_ru": "первый заместитель директора",
+        "name_uz": "директорнинг биринчи ўринбосари",
+        "name_uz-ln": "direktorning birinchi o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "2136.",
+        "name_ru": "первый заместитель генерального директора (председателя правления) по производству и развитию",
+        "name_uz": "ишлаб чиқариш ва ривожлантириш бўйича бош директор (бошқарув раиси)нинг биринчи ўринбосари",
+        "name_uz-ln": "ishlab chiqarish va rivojlantirish bo‘yicha bosh direktor (boshqaruv raisi)ning birinchi o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1959.",
+        "name_ru": "начальник отдела стандартизации классификации и кодирования",
+        "name_uz": "таснифлаш ва кодлашни стандартлаш бўлими бошлиғи",
+        "name_uz-ln": "tasniflash va kodlashni standartlash bo‘limi boshlig‘i",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1830.",
+        "name_ru": "начальник дирекции",
+        "name_uz": "дирекция бошлиғи",
+        "name_uz-ln": "direktsiya boshlig‘i",
+        "nskz_code": "1226",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1774.",
+        "name_ru": "начальник (директор, управляющий) департамента",
+        "name_uz": "департамент бошлиғи (директори, бошқарувчиси",
+        "name_uz-ln": "departament boshlig‘i (direktori, boshqaruvchisi",
+        "nskz_code": "1226",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1747.",
+        "name_ru": "механик-командир",
+        "name_uz": "механик-командир",
+        "name_uz-ln": "mexanik-komandir",
+        "nskz_code": "3142",
+        "min_education": "ССПО",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1745.1",
+        "name_ru": "механик-бригадир пассажирского поезда",
+        "name_uz": "йўловчи ташиш вагонлари механиги-биргадири",
+        "name_uz-ln": "yo‘lovchi tashish vagonlari mexanigi-birgadiri",
+        "nskz_code": "3115",
+        "min_education": "ССПО",
+        "personal_category": "П",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1483.",
+        "name_ru": "командир-наставник",
+        "name_uz": "командир-устоз",
+        "name_uz-ln": "komandir-ustoz",
+        "nskz_code": "3142",
+        "min_education": "В/О",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1482.",
+        "name_ru": "командир спасательной группы",
+        "name_uz": "қутқарув гуруҳи командири",
+        "name_uz-ln": "qutqaruv guruhi komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1481.",
+        "name_ru": "командир пункта (газоспасательного, горноспасательного, подземного)",
+        "name_uz": "пункт командири (газдан сақлаш,  тоғда қутқариш, ер ости)",
+        "name_uz-ln": "punkt komandiri (gazdan saqlash,  tog‘da qutqarish, er osti)",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1480.",
+        "name_ru": "командир отряда",
+        "name_uz": "отряд командири",
+        "name_uz-ln": "otryad komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1479.1",
+        "name_ru": "командир отделения военизированного газоспасательного отряда",
+        "name_uz": "ҳарбийлашган газ қутқарув отряди бўлим командири",
+        "name_uz-ln": "harbiylashgan gaz qutqaruv otryadi bo‘lim komandiri",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1479.",
+        "name_ru": "командир отделения (горноспасательной, пожарной части)",
+        "name_uz": "ўт ўчириш, тоғ-қутқарув қисмининг бўлинмаси командири",
+        "name_uz-ln": "o‘t o‘chirish, tog‘-qutqaruv qismining bo‘linmasi komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1478.1",
+        "name_ru": "командир отделения (горноспасательной, пожарной части)",
+        "name_uz": "бўлинма командири (тоғ-қутқарув, ўт-ўчирув қисми)",
+        "name_uz-ln": "bo‘linma komandiri (tog‘-qutqaruv, o‘t-o‘chiruv qismi)",
+        "nskz_code": "5142",
+        "min_education": "ССПО",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1478.",
+        "name_ru": "командир объединенного авиационного отряда",
+        "name_uz": "бирлашган авиация отряди командири",
+        "name_uz-ln": "birlashgan aviatsiya otryadi komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1477.",
+        "name_ru": "командир вспомогательной горноспасательной команды",
+        "name_uz": "ёрдамчи тоғ-қутқарув коандаси командири",
+        "name_uz-ln": "yordamchi tog‘-qutqaruv koandasi komandiri",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1476.",
+        "name_ru": "командир воздушного судна (пилот, летчик)-инструктор",
+        "name_uz": "ҳаво кемаси командири (учувчи)-йўриқчи",
+        "name_uz-ln": "havo kemasi komandiri (uchuvchi)-yo‘riqchi",
+        "nskz_code": "3143",
+        "min_education": "В/О",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1475.2",
+        "name_ru": "командир военизированного газоспасательного отряда",
+        "name_uz": "ҳарбийлашган газ қутқарув отряди командири",
+        "name_uz-ln": "harbiylashgan gaz qutqaruv otryadi komandiri",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1475.1",
+        "name_ru": "командир взвода военизированного газоспасательного отряда",
+        "name_uz": "ҳарбийлашган газ қутқарув отряди взвод командири",
+        "name_uz-ln": "harbiylashgan gaz qutqaruv otryadi vzvod komandiri",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1475.",
+        "name_ru": "командир артиллерийского звена горноспасательной команды",
+        "name_uz": "тоғ-қутқарув командасининг артиллерия звеноси командири",
+        "name_uz-ln": "tog‘-qutqaruv komandasining artilleriya zvenosi komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1474.",
+        "name_ru": "командир авиационной эскадрильи, объединенной с аэропортом",
+        "name_uz": "аэропорт билан бирлашган эскадриля командири",
+        "name_uz-ln": "aeroport bilan birlashgan eskadrilya komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1473.",
+        "name_ru": "командир авиационной эскадрильи",
+        "name_uz": "авиация эскадриляси командири",
+        "name_uz-ln": "aviatsiya eskadrilyasi komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1472.",
+        "name_ru": "командир авиационного отряда",
+        "name_uz": "авиация отряди командири",
+        "name_uz-ln": "aviatsiya otryadi komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1471.",
+        "name_ru": "командир авиационного звена",
+        "name_uz": "авиация звеноси командири",
+        "name_uz-ln": "aviatsiya zvenosi komandiri",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1470.",
+        "name_ru": "командир (отделения, взвода, части)",
+        "name_uz": "командир (бўлинма, взвод, қисмда)",
+        "name_uz-ln": "komandir (bo‘linma, vzvod, qismda)",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1469.",
+        "name_ru": "командир (начальник) эксплуатационного объединения гражданской авиации",
+        "name_uz": "фуқаро авиациясини эксплуатация қилиш бирлашмаси командири (бошлиғи)",
+        "name_uz-ln": "fuqaro aviatsiyasini ekspluatatsiya qilish birlashmasi komandiri (boshlig‘i)",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1466.",
+        "name_ru": "кодировщик (по связи интернета)",
+        "name_uz": "кодловчи (интернет алоқасида)",
+        "name_uz-ln": "kodlovchi (internet aloqasida)",
+        "nskz_code": "4143",
+        "min_education": "ССПО",
+        "personal_category": "Т",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1465.",
+        "name_ru": "кодировщик",
+        "name_uz": "кодловчи",
+        "name_uz-ln": "kodlovchi",
+        "nskz_code": "4143",
+        "min_education": "ССПО",
+        "personal_category": "Т",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1442.",
+        "name_ru": "капитан-директор",
+        "name_uz": "капитан-директор",
+        "name_uz-ln": "kapitan-direktor",
+        "nskz_code": "3142",
+        "min_education": "ССПО",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "1429.",
+        "name_ru": "исполнительный директор",
+        "name_uz": "ижрочи директор",
+        "name_uz-ln": "ijrochi direktor",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "932.",
+        "name_ru": "заместитель начальника (директора) объединения",
+        "name_uz": "бирлашма бошлиғи (директори) ўринбосари",
+        "name_uz-ln": "birlashma boshlig‘i (direktori) o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "929.",
+        "name_ru": "заместитель коммерческого директора",
+        "name_uz": "тижорат бўйича директор ўринбосари",
+        "name_uz-ln": "tijorat bo‘yicha direktor o‘rinbosari",
+        "nskz_code": "1231",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "928.1",
+        "name_ru": "заместитель командира военизированного газоспасательного отряда",
+        "name_uz": "ҳарбийлаштирилган газ қутқарув хизмати отраяди командирининг ўринбосари",
+        "name_uz-ln": "harbiylashtirilgan gaz qutqaruv xizmati otrayadi komandirining o‘rinbosari",
+        "nskz_code": "1239",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "928.",
+        "name_ru": "заместитель исполнительного директора",
+        "name_uz": "ижрочи директор ўринбосари",
+        "name_uz-ln": "ijrochi direktor o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "921.",
+        "name_ru": "заместитель директора филиала научных у?реждений по научной работе",
+        "name_uz": "илмий муассаса филиали директорининг илмий ишлар бўйича ўринбосари",
+        "name_uz-ln": "ilmiy muassasa filiali direktorining ilmiy ishlar bo‘yicha o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "920.",
+        "name_ru": "заместитель директора республиканского туристско-спортивного центра",
+        "name_uz": "республика турист-спорт маркази директори ўринбосари",
+        "name_uz-ln": "respublika turist-sport markazi direktori o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "919.",
+        "name_ru": "заместитель директора республиканского (областного) научно-методического центра народного творчества и культпросвет работы",
+        "name_uz": "халқ ижодиёти ва маданий-маърифий ишлар республика (вилоят) илмий-услубий маркази директори ўринбосари",
+        "name_uz-ln": "xalq ijodiyoti va madaniy-ma’rifiy ishlar respublika (viloyat) ilmiy-uslubiy markazi direktori o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "918.",
+        "name_ru": "заместитель директора по экономике и финансам",
+        "name_uz": "молия ва иқтисод бўйича директор ўринбосари",
+        "name_uz-ln": "moliya va iqtisod bo‘yicha direktor o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "917.",
+        "name_ru": "заместитель директора по производству и новым технологиям",
+        "name_uz": "ишлаб чиқариш ва янги технология бўйича директор ўринбосари",
+        "name_uz-ln": "ishlab chiqarish va yangi texnologiya bo‘yicha direktor o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "916.",
+        "name_ru": "заместитель директора ни института по научной работе",
+        "name_uz": "илмий тадқиқот институти директорининг илмий ишлар бўйича ўринбосари",
+        "name_uz-ln": "ilmiy tadqiqot instituti direktorining ilmiy ishlar bo‘yicha o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "915.1",
+        "name_ru": "заместитель директора дома-интерната",
+        "name_uz": "уй-интернат директори ўринбосари",
+        "name_uz-ln": "uy-internat direktori o‘rinbosari",
+        "nskz_code": "1319",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "915.",
+        "name_ru": "заместитель директора департамента",
+        "name_uz": "департамент директори ўринбосари",
+        "name_uz-ln": "departament direktori o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "914.",
+        "name_ru": "заместитель директора (ректора, заведующего) по учебной, воспитательной, научной, методической работе",
+        "name_uz": "ўқув, тарбия, илмий, услубий ишлар бўйича  директор (ректор,  мудир)  ўринбосари",
+        "name_uz-ln": "o‘quv, tarbiya, ilmiy, uslubiy ishlar bo‘yicha  direktor (rektor,  mudir)  o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "913.",
+        "name_ru": "заместитель директора",
+        "name_uz": "директор ўринбосари",
+        "name_uz-ln": "direktor o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "901.",
+        "name_ru": "заместитель генерального директора производственного объединения",
+        "name_uz": "ишлаб чиқариш бирлашмаси бош директори ўринбосари",
+        "name_uz-ln": "ishlab chiqarish birlashmasi bosh direktori o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "900.",
+        "name_ru": "заместитель генерального директора по финансам и закупкам (председателя правления по финансам и закупкам)",
+        "name_uz": "молия ва харид бўйича бош директор (бошқарув раиси) ўринбосари",
+        "name_uz-ln": "moliya va xarid bo‘yicha bosh direktor (boshqaruv raisi) o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "899.",
+        "name_ru": "заместитель генерального директора по производству и развитию",
+        "name_uz": "ишлаб чиқариш ва ривожлантириш бўйича бош директор ўринбосари",
+        "name_uz-ln": "ishlab chiqarish va rivojlantirish bo‘yicha bosh direktor o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "898.",
+        "name_ru": "заместитель генерального директора по маркетингу и продажам (председателя правления по маркетингу и продажам)",
+        "name_uz": "маркетинг ва савдо бўйича бош директор (бошқарув раиси) ўринбосари",
+        "name_uz-ln": "marketing va savdo bo‘yicha bosh direktor (boshqaruv raisi) o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "897.",
+        "name_ru": "заместитель генерального директора",
+        "name_uz": "бош директор ўринбосари",
+        "name_uz-ln": "bosh direktor o‘rinbosari",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "259.",
+        "name_ru": "главный дирижер",
+        "name_uz": "бош дирижёр",
+        "name_uz-ln": "bosh dirijyor",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "258.",
+        "name_ru": "главный директор программ",
+        "name_uz": "дастур бош директори",
+        "name_uz-ln": "dastur bosh direktori",
+        "nskz_code": "1229",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "180.",
+        "name_ru": "генеральный директор-председатель правления",
+        "name_uz": "бош  директор - бошқарув раиси",
+        "name_uz-ln": "bosh  direktor - boshqaruv raisi",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "177.",
+        "name_ru": "генеральный директор-председатель правления",
+        "name_uz": "бош  директор - бошқарув раиси",
+        "name_uz-ln": "bosh  direktor - boshqaruv raisi",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "179.",
+        "name_ru": "генеральный директор телеграфного агентства республики",
+        "name_uz": "республика телеграф агентлиги бош директори",
+        "name_uz-ln": "respublika telegraf agentligi bosh direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "178.",
+        "name_ru": "генеральный директор производственного объединения",
+        "name_uz": "ишлаб чиқариш бирлашмаси бош директори",
+        "name_uz-ln": "ishlab chiqarish birlashmasi bosh direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "176.",
+        "name_ru": "генеральный директор предприятия",
+        "name_uz": "корхона бош директори",
+        "name_uz-ln": "korxona bosh direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "175.",
+        "name_ru": "генеральный директор объединения (внешнеторгового, государственного концертного, государственных цирков)",
+        "name_uz": "бирлашма (ташқи савдо, давлат концерт, давлат цирклари) бош   директори",
+        "name_uz-ln": "birlashma (tashqi savdo, davlat kontsert, davlat tsirklari) bosh   direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "174.",
+        "name_ru": "генеральный директор научно-производственного объединения",
+        "name_uz": "илмий-ишлаб чиқариш бирлашмаси бош  директори",
+        "name_uz-ln": "ilmiy-ishlab chiqarish birlashmasi bosh  direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "173.",
+        "name_ru": "генеральный директор комбината",
+        "name_uz": "комбинат бош директори",
+        "name_uz-ln": "kombinat bosh direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "172.",
+        "name_ru": "генеральный директор государственно-акционерного объединения",
+        "name_uz": "давлат-акционерлик бирлашмаси бош директори",
+        "name_uz-ln": "davlat-aktsionerlik birlashmasi bosh direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "171.",
+        "name_ru": "генеральный директор генеральной дирекции",
+        "name_uz": "бош дирекция бош директори",
+        "name_uz-ln": "bosh direktsiya bosh direktori",
+        "nskz_code": "1210",
+        "min_education": "В/О",
+        "personal_category": "У",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "86.",
+        "name_ru": "ассистент дирежера",
+        "name_uz": "дирежер ассистенти",
+        "name_uz-ln": "direjer assistenti",
+        "nskz_code": "3131",
+        "min_education": "ССПО",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }, {
+        "pn": "34.",
+        "name_ru": "администратор-бригадир",
+        "name_uz": "маъмур-бригадир",
+        "name_uz-ln": "ma’mur-brigadir",
+        "nskz_code": "3431",
+        "min_education": "ССПО",
+        "personal_category": "С",
+        "type": "e",
+        "range": ""
+    }]
+}

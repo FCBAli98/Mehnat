@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Система привлечения иностранных рабочих сил</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+    <link rel="stylesheet" href="css/defaultStyles.css"/>
+    <link rel="stylesheet" href="css/icons.css"/>
+    <link rel="stylesheet" href="css/fonts.css"/>
+    <link rel="stylesheet" href="css/font-awesome.css"/>
+    <link rel="stylesheet" href="css/enjoyhint.css"/>
+    <link rel="stylesheet" href="css/select2.min.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/media.css"/>
+    <script src="js/jquery.js"></script>
+    <script src="js/enjoyhint.min.js"></script>
+    <script src="js/kinetic-v5.1.0.min.js"></script>
+    <script src="js/select2.min.js"></script>
+    <script src="js/banks.js"></script>
+    <script src="js/countries.js"></script>
+    <script src="js/combodate.js"></script>
+    <script src="js/jquery.inputmask.bundle.min.js"></script>
+    <script src="js/moment.min.js"></script>
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+    <!-- start #mainWrap-->
+    <div id="mainWrap">
+      <!-- start #header-->
+      <div id="header">
+        <div class="topHeader">
+          <div class="mainContainer minContainer">
+            <div class="left"><i class="fa fa-calendar"></i>&nbsp;<span>Дата: <strong>25.04.2019 г.</strong></span></div>
+            <div class="right">
+              <div class="langs">
+                <ul>
+                  <li><a href="#">O’zbekcha</a></li>
+                  <li><a href="#">Узбекча</a></li>
+                  <li class="active"><a href="#">Русский</a></li>
+                </ul>
+              </div>
+              <div class="exitBtn"><a href="languages.html">Выйти из кабинета <i class="fa fa-sign-out" aria-hidden="true"></i></a></div>
+            </div>
+          </div>
+        </div>
+        <div class="header">
+          <div class="mainContainer minContainer">
+            <div class="logo"><a href="index.html"><img src="images/logo.svg" alt=""/></a></div>
+            <nav class="headerNav">
+              <ul>
+                <li><a href="index.html"><i class="fa fa-home"></i> Главная </a></li>
+                <li><a href="company-data.html"><i class="fa fa-cogs"></i> Данные компании</a></li>
+              </ul>
+            </nav>
+            <div class="headerRight">
+              <nav class="headerNav">
+                <ul>
+                  <li><a href="#"><i class="fa fa-info-circle"></i> Правовая информация</a></li>
+                  <li><a href="#"><i class="fa fa-info-circle"></i> Помощь по системе</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end #header-->
+      <!-- start #content-->
+      <div id="content">
+        <div class="fullPage">
+          <div class="mainContainer minContainer">
+            <div class="contentBlock">
+              <table>
+                <tr>
+                  <td valign="top">
+                    <h1 class="abonentName">ООО "Smart Technologies Group"</h1>
+                    <div class="itemsList">
+                      <div class="item"><strong>Почтовый адрес</strong>
+                        <p>Ташкент, Мирзо-Улугбекский район, улица Паркентская, дом 13а, квартира 235</p>
+                      </div>
+                    </div>
+                    <div class="fs16">
+                      <div class="optionL">ИНН:<span>984151348</span></div>
+                      <div class="optionL">СОАТО:<span>1254624</span></div>
+                      <div class="optionL">ОКЭД:<span>12762</span></div>
+                      <div class="optionL">ФС:<span>521</span></div>
+                      <div class="optionL">ОПФ:<span>145</span></div>
+                      <div class="optionL">ОКПО:<span>54781254</span></div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </div>
+          <div class="mainContainer cartContainer">
+            <p><a href="index.html">Назад</a></p><br/>
+            <div class="contentBlock">
+              <div class="title-3 textCenter">Укажите должности и количество планируемых для привлечения иностранных специалистов</div>
+              <div class="table1 tableBordered">
+                <table>
+                </table>
+              </div>
+              <form id="additional-position" action="preview-permission.html">
+                <div v-for="(item, index) in models" class="row10">
+                  <div class="colp10-8">
+                    <div class="formControl">
+                      <label class="formLabel">Должность</label>
+                      <div class="field">
+                        <select v-model="item.position_name" class="js-select-2">
+                          <option value="">Выберите</option>
+                          <option value="1">Директор</option>
+                          <option value="1">Менеджер</option>
+                          <option value="1">Программист</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                  <div v-if="index != 0" class="colp10-2">
+                    <div class="formControl">
+                      <label class="formLabel">Количество</label>
+                      <div class="field">
+                        <input type="number" v-model="item.count" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div v-else="v-else" class="colp10-4">
+                    <div class="formControl">
+                      <label class="formLabel">Количество</label>
+                      <div class="field">
+                        <input type="number" v-model="item.count" class="formField"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div v-if="index != 0" class="colp10-2">
+                    <div class="formControl">
+                      <label class="formLabel">&nbsp;</label>
+                      <div class="field">
+                        <button type="button" v-on:click.prevent="deleteBlock(index)" class="btn0 btnSmall btnRed btnBlock">Удалить</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="textLeft"><a href="#" v-on:click.prevent="add()" class="dashedLink">Добавить еще</a></div>
+                <hr/>
+                <h4 class="title-4">Копии документов:</h4>
+                <div class="table1 tableBordered tableHovered inputsFileTable">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>1</td>
+                        <td width="400">Копия паспорта директора</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>2</td>
+                        <td>Копия платежного документа, подтверждающего внесение заявителем сбора за рассмотрение заявления в размере одной минимальной заработной платы</td>
+                        <td>
+                          <div class="field">
+                            <input type="file" accept="image/jpg,image/png,image/jpeg,application/pdf" class="formField"/>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <hr/>
+                <div class="formControl">
+                  <label>Укажите номер мобильного телефона для получения SMS уведомлений.</label>
+                  <div class="row10">
+                    <div class="colp10-6">
+                      <div class="field fieldWithPrefix">
+                        <div class="fieldPrefix">+998</div>
+                        <input type="text" value="" class="formField jq-phone-mask"/>
+                      </div>
+                    </div>
+                  </div>
+                  <p><em>ВАЖНО: Укажите тот номер, к которому вы имеете доступ!</em></p>
+                </div><br/>
+                <div class="clearFix textRight"><a href="index.html" class="btn0 btnDefault left">Отменить</a>
+                  <button class="btn0 btnGreen">Предпросмотр</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end #mainWrap-->
+    <!-- start #footer-->
+    <div id="footer">
+      <div class="mainContainer">
+        <div class="footer">
+          <div class="footerText textCenter">2018  Министерство занятости и трудовых отношений Республики Узбекистан</div>
+        </div>
+      </div>
+      <script src="js/vue.js"></script>
+      <script src="js/vue-scripts.js"></script>
+    </div>
+    <!-- end #footer-->
+  </body>
+</html>

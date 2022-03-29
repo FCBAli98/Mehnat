@@ -1,0 +1,112 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url("../fonts/icons/icomoon.eot?614us1");
+  src: url("../fonts/icons/icomoon.eot?614us1#iefix") format("embedded-opentype"), url("../fonts/icons/icomoon.ttf?614us1") format("truetype"), url("../fonts/icons/icomoon.woff?614us1") format("woff"), url("../fonts/icons/icomoon.svg?614us1#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon-printer:before {
+  content: "\e91d"; }
+
+.icon-fb2:before {
+  content: "\e91c"; }
+
+.icon-dotted:before {
+  content: "\e919"; }
+
+.icon-odno:before {
+  content: "\e91a"; }
+
+.icon-vk:before {
+  content: "\e91b"; }
+
+.icon-calendar:before {
+  content: "\e918"; }
+
+.icon-duble-arrow-left:before {
+  content: "\e917"; }
+
+.icon-duble-arrow-right:before {
+  content: "\e916"; }
+
+.icon-doc:before {
+  content: "\e914"; }
+
+.icon-pdf:before {
+  content: "\e915"; }
+
+.icon-arrow-min-left:before {
+  content: "\e900"; }
+
+.icon-arrow-min-right:before {
+  content: "\e901"; }
+
+.icon-close:before {
+  content: "\e902"; }
+
+.icon-dec-1:before {
+  content: "\e903"; }
+
+.icon-dots-arrow-min-left:before {
+  content: "\e904"; }
+
+.icon-dots-arrow-min-right:before {
+  content: "\e905"; }
+
+.icon-dots-arrow-left:before {
+  content: "\e906"; }
+
+.icon-dots-arrow-right:before {
+  content: "\e907"; }
+
+.icon-employer:before {
+  content: "\e908"; }
+
+.icon-home:before {
+  content: "\e909"; }
+
+.icon-info:before {
+  content: "\e90a"; }
+
+.icon-maps:before {
+  content: "\e90b"; }
+
+.icon-search:before {
+  content: "\e90c"; }
+
+.icon-sn-fb:before {
+  content: "\e90d"; }
+
+.icon-sn-insta:before {
+  content: "\e90e"; }
+
+.icon-sn-tg:before {
+  content: "\e90f"; }
+
+.icon-sn-tw:before {
+  content: "\e910"; }
+
+.icon-special-view:before {
+  content: "\e911"; }
+
+.icon-user:before {
+  content: "\e912"; }
+
+.icon-worker:before {
+  content: "\e913"; }
+
+.icon-follow:before {
+  content: "\e911"; }
